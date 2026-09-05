@@ -25,6 +25,3 @@ Measures built at both match level (wins, net run rate, results by venue) and de
 
 Power BI • SQL
 
-## 🖼️ Screenshots
-
-*(add dashboard screenshots here)*
