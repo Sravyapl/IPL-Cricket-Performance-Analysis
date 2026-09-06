@@ -24,3 +24,6 @@ Measures built at both match level (wins, net run rate, results by venue) and de
 ## 🛠️ Tech Stack
 
 Power BI • SQL
+
+## 📸 Screenshots !
+[Executive Overview](ipl-cricket-performance-summary.png)
